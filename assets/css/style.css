@@ -1,20 +1,8 @@
-section {
-  display: flex;
-  justify-content: space-around;
-}
 div {
+  display: inline-block;
   height: 200px;
   width: 200px;
-}
-#block-1 {
-  background-color: blue;
-}
-#block-2 {
-  background-color: red;
-}
-#block-3 {
-  background-color: green;
-}
-#block-4 {
-  background-color: yellow;
+  background-color: white;
+  border: solid 2px black;
+  margin: 40px;
 }
